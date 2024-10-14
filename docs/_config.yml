@@ -21,7 +21,7 @@
 title: catacombs.dev
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  catacombs.dev- a blog to dig up cool knowledge from the Catacombs of the internet. For educational purposes only. 
+  Cybersecurity topics of interest. For educational purposes only.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
